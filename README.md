@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de README para o seu projeto:
-
 ---
 
 # Projeto de Busca de E-mails e Números
